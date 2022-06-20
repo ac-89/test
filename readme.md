@@ -1,7 +1,3 @@
-# hi
-
-#hello
-hello
-
-#master branch
-
+#git_test
+My first Github repo!
+Hello Odin!
